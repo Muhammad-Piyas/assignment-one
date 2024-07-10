@@ -546,7 +546,25 @@ background: rgb(255, 255, 255);
   align-items: center;
   border-radius: 8px;
   background: rgb(255, 255, 255);
+}
+/* I Need Support section style end here */
 
+/* Last section style start here */
+.last-container{
+  width: 1440px;
+ height: 100px;
+  background-color: rgba(13, 19, 33, 0.03);
+  display: flex;
+  justify-content: space-around;
+  margin: 0 auto;
+  align-items: center;
+  margin-top: 79px;
 }
 
-/* I Need Support section style end here */
+.last-content{
+  color: rgb(13, 19, 33);font-family: Azeret Mono;font-size: 18px;
+ font-weight: 600;
+ text-align: center;
+}
+
+/* Last section style end here */
