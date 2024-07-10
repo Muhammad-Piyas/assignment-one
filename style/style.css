@@ -340,6 +340,7 @@ margin: 32px 0px;
 /* Inspiration section style end here */
 
  /* Current Target section style start here */
+ 
  .current-content h3{
   color: rgb(13, 19, 33);
   font-family: Azeret Mono;
@@ -347,6 +348,7 @@ margin: 32px 0px;
   font-weight: 800;
   text-align: center;
   margin-bottom: 24px;
+  margin-top: 144px;
  }
  .current-content p{
   opacity: 0.7;
@@ -358,5 +360,140 @@ margin: 32px 0px;
   margin-left: 144px;
   margin-right: 144px;
  }
+ .skill-content-one{
+  width: 364px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 40px;
+  margin: 0px 24px;
+ border-radius: 16px;
+ background: rgba(255, 76, 30, 0.05);
+ }
+ .skill-content-one .skill-title{
+width: 284px;
+height: 36px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+padding: 0px;
+margin: 8px 0px;
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+text-align: left;
+ }
+ .skill-content-one .skill-description{
+  opacity: 0.7;
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 15px;
+  font-weight: 400;
+  text-align: left;
+  margin-bottom: 24px;
+ }
+ .skill-content-one .skill-b{
+  color: rgb(13, 19, 33);
+ font-family: Azeret Mono;
+ font-size: 16px;
+ font-weight: 700;
+ text-align: left;
+ }
+ .skill-content-two{
+ width: 364px;
+ height: 300px;
+ display: flex;
+ flex-direction: column;
+ justify-content: flex-start;
+ align-items: flex-start;
+ padding: 40px;
+ margin: 0px 24px;
+ border-radius: 16px;
+ background: rgba(0, 76, 232, 0.05);
+ }
+ .skill-content-two .skill-title{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 0px;
+  margin: 8px 0px;
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 24px;
+  font-weight: 800;
+  text-align: left;
+ }
+ .skill-content-two .skill-description{
+  opacity: 0.7;
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 15px;
+  font-weight: 400;
+  text-align: left;
+  margin-bottom: 24px;
+ }
+ .skill-content-two .skill-b{
+  color: rgb(13, 19, 33);
+ font-family: Azeret Mono;
+ font-size: 16px;
+ font-weight: 700;
+ text-align: left;
+ }
+
+ .skill-content-three{
+  width: 364px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 40px;
+  margin: 0px 24px;
+  border-radius: 16px;
+  background: rgba(255, 223, 0, 0.05);
+  }
+  .skill-content-three .skill-title{
+   display: flex;
+   flex-direction: column;
+   justify-content: flex-start;
+   align-items: flex-start;
+   padding: 0px;
+   margin: 8px 0px;
+   color: rgb(13, 19, 33);
+   font-family: Azeret Mono;
+   font-size: 24px;
+   font-weight: 800;
+   text-align: left;
+  }
+  .skill-content-three .skill-description{
+   opacity: 0.7;
+   color: rgb(13, 19, 33);
+   font-family: Azeret Mono;
+   font-size: 15px;
+   font-weight: 400;
+   text-align: left;
+   margin-bottom: 24px;
+  }
+  .skill-content-three .skill-b{
+   color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 700;
+  text-align: left;
+  }
+ .skill{
+  display: flex;
+  gap: 24px;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  margin-top: 48px;
+ }
+
 
  /* Current Target section style end here */
